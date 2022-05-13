@@ -1,8 +1,6 @@
 Eai, Meu nome eh Quemuel
-tnh interesse em 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+tnh 14y e eh so isso memo
+.
 
 <!---
 Quemuelzinn/Quemuelzinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
